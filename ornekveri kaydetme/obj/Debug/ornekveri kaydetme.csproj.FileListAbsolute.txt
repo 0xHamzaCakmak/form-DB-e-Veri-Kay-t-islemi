@@ -1,0 +1,10 @@
+C:\Users\reela\source\repos\ornekveri kaydetme\ornekveri kaydetme\bin\Debug\ornekveri kaydetme.exe.config
+C:\Users\reela\source\repos\ornekveri kaydetme\ornekveri kaydetme\bin\Debug\ornekveri kaydetme.exe
+C:\Users\reela\source\repos\ornekveri kaydetme\ornekveri kaydetme\bin\Debug\ornekveri kaydetme.pdb
+C:\Users\reela\source\repos\ornekveri kaydetme\ornekveri kaydetme\obj\Debug\ornekveri kaydetme.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\ornekveri kaydetme\ornekveri kaydetme\obj\Debug\ornekveri_kaydetme.Form1.resources
+C:\Users\reela\source\repos\ornekveri kaydetme\ornekveri kaydetme\obj\Debug\ornekveri_kaydetme.Properties.Resources.resources
+C:\Users\reela\source\repos\ornekveri kaydetme\ornekveri kaydetme\obj\Debug\ornekveri kaydetme.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\ornekveri kaydetme\ornekveri kaydetme\obj\Debug\ornekveri kaydetme.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\ornekveri kaydetme\ornekveri kaydetme\obj\Debug\ornekveri kaydetme.exe
+C:\Users\reela\source\repos\ornekveri kaydetme\ornekveri kaydetme\obj\Debug\ornekveri kaydetme.pdb
